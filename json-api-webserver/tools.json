@@ -1,0 +1,93 @@
+{
+    "tools":[
+    {
+        "id": 1,
+        "name": "Schroevendraaier",
+        "function": "Vast- en losdraaien van schroeven",
+        "category": "Handgereedschap"
+    },
+    {
+        "id": 2,
+        "name": "Hamer",
+        "function": "Slaan op spijkers of andere objecten",
+        "category": "Handgereedschap"
+    },
+    {
+        "id": 3,
+        "name": "Boormachine",
+        "function": "Boren van gaten in verschillende materialen",
+        "category": "Elektrisch gereedschap"
+    },
+    {
+        "id": 4,
+        "name": "Zaag",
+        "function": "Zagen van hout of andere materialen",
+        "category": "Handgereedschap"
+    },
+    {
+        "id": 5,
+        "name": "Waterpomptang",
+        "function": "Vastgrijpen en draaien van buizen of moeren",
+        "category": "Handgereedschap"
+    },
+    {
+        "id": 6,
+        "name": "Lijmpistool",
+        "function": "Aanbrengen van hete lijm",
+        "category": "Elektrisch gereedschap"
+    },
+    {
+        "id": 7,
+        "name": "Multimeter",
+        "function": "Meten van elektrische waarden zoals spanning en stroom",
+        "category": "Meetgereedschap"
+    },
+    {
+        "id": 8,
+        "name": "Soldeerbout",
+        "function": "Verbindingen maken door solderen",
+        "category": "Elektrisch gereedschap"
+    },
+    {
+        "id": 9,
+        "name": "Rolmaat",
+        "function": "Meten van lengtes",
+        "category": "Meetgereedschap"
+    },
+    {
+        "id": 10,
+        "name": "Tangen",
+        "function": "Knippen, buigen of vasthouden van materialen",
+        "category": "Handgereedschap"
+    }
+],
+
+
+"winkels":[
+    {
+        "id": 1,
+        "name": "Doe-het-zelf Hove",
+        "address": "Kapelstraat 15, 2540 Hove, België"
+    },
+    {
+        "id": 2,
+        "name": "Gamma Mortsel",
+        "address": "Antwerpsestraat 100, 2640 Mortsel, België"
+    },
+    {
+        "id": 3,
+        "name": "Hubo Edegem",
+        "address": "Mechelsesteenweg 200, 2650 Edegem, België"
+    },
+    {
+        "id": 4,
+        "name": "Brico Plan-It Wilrijk",
+        "address": "Boomsesteenweg 668, 2610 Wilrijk, België"
+    },
+    {
+        "id": 5,
+        "name": "Praxis Kontich",
+        "address": "Prins Boudewijnlaan 50, 2550 Kontich, België"
+    }
+]
+}
